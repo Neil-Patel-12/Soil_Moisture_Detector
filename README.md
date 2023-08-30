@@ -17,7 +17,7 @@ The user group we decided to target was for those who practice small-scale agric
 - When considering the product’s lifecycle, from development to disposal, we aimed to create a product that was not only practical but also environmentally and ethically responsive. <br>
 
 ## SolidWorks Design 
-Add pic <br>
+![SOLIDWORKD](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/667edb5f-dd23-43ff-94fb-f213c1473208) <br>
 - One challenge I had when designing this open/closing system was cutting everything in half and measuring everything halfway to make the soil moisture detector fit nice and snug. <br>
 - The second challenge I had was thinking and designing the most effective closing/opening system. There are many ways I could have gone about designing this, but the holes and columns were the best choice because it allows for a smooth look rather and simple use. <br>
 - One way I can improve the design would be to design a locking mechanism to ensure the parts don’t detach. <br>
