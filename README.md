@@ -3,7 +3,7 @@ Team members: Neil Patel, Eric Fontes, Joseph Mackle, Eddy Chen <br>
 EGN2020C Spring 2023 Class # 21719 Dr. Andrea M. Goncher <br>
 
 ## Design
-Add pic <br>
+![3_pictures](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/b89e0fc3-5981-4704-a2bd-b88aae641d56) <br>
 
 ## How the code works
 Add pic <br>
