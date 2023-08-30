@@ -6,7 +6,7 @@ EGN2020C Spring 2023 Class # 21719 Dr. Andrea M. Goncher <br>
 ![3_pictures](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/b89e0fc3-5981-4704-a2bd-b88aae641d56) <br>
 
 ## How the code works
-Add pic <br>
+![IMG-1452](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/ecbb220b-d2d9-4a5d-8497-5a4b2371489d) <br>
 This flowchart describes an ongoing loop for the four lights installed on the soil moisture detector. It uses true and false statements to determine what level of water is in the soil, which would be distinguishable by the output of whatever light would come on based on the soil moisture. It’s designed like this for efficiency to see whenever the lights are out, the farmers, or gardeners will know to water the plants until they see all the lights come on the moisture detector. There is also a buzzer to indicate whenever the soil needs watering, so if the gardeners are busy doing something they will hear the ring go off and water immediately. <br>
 
 ## Identified a User Group
