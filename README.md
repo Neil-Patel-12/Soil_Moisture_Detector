@@ -24,5 +24,6 @@ The user group we decided to target was for those who practice small-scale agric
 
 ## Pictures I took as the group and I were building and testing the SMD
 ![IMG_9852](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/4584ae2c-f431-4514-9515-12d916847b03) <br>
-Add pic <br>
-Add pic <br>
+![IMG_9820](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/d33b22c0-65e4-49fb-a6ce-4ac1030baa57) <br>
+![IMG_9819](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/d981d9e5-6a70-43fd-9e7f-e15b45dc85fb) <br>
+![IMG_9818](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/fee22401-1965-459b-b2ef-5d62ab0f8ac8) <br>
