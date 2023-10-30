@@ -23,6 +23,6 @@ The user group we decided to target was for those who practice small-scale agric
 - One way I can improve the design would be to design a locking mechanism to ensure the parts don’t detach. <br>
 
 ## Pictures I took as the group and I were building and testing the SMD
-Add pic <br>
+![IMG_9852](https://github.com/Neil-Patel-12/Soil_Moisture_Detector/assets/108227267/4584ae2c-f431-4514-9515-12d916847b03) <br>
 Add pic <br>
 Add pic <br>
